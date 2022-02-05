@@ -8,41 +8,1078 @@ The course notes were written by John Belcher, Peter Dourmashkin, and Sen-Ben Li
 
 The TEAL classroom includes the opportunity for students to use the Personal Response System (PRS). Questions are posed to the class to stimulate discussion and indicate how concepts are going over. Students "vote" on answers electronically and their answers are tallied.
 
-| WEEK # | SES # | TOPICS | COURSE NOTES | PRESENTATIONS | PRS |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 1 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Why Physics? {{< br >}}{{< br >}} Why Studio Physics? (and How?) {{< br >}}{{< br >}} Vector and Scalar Fields {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Gravitational Fields {{< br >}}{{< br >}} Electric Fields {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 1: Sections 1.1 - 1.6; 1.8 ([PDF]({{< baseurl >}}/resources/chapter1fields)) {{< br >}}{{< br >}} Chapter 2 ([PDF]({{< baseurl >}}/resources/chap2coulomb_law)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/presentati_w01d1-1)) | ([PDF]({{< baseurl >}}/resources/prs_w01d1)) |
-| 2 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Review: Electric Fields {{< br >}}{{< br >}} Charge {{< br >}}{{< br >}} Dipoles {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Continuous Charge Distributions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 1: Section 1.6 ([PDF]({{< baseurl >}}/resources/chapter1fields)) {{< br >}}{{< br >}} Chapter 2 ([PDF]({{< baseurl >}}/resources/chap2coulomb_law)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/presentati_w01d2-1)) | ([PDF]({{< baseurl >}}/resources/prs_w01d2)) |
-| 3 | Problem Solving Session 1: Line and Surface Integrals | &nbsp; |
-| 2 | 4 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Working In Groups {{< br >}}{{< br >}} Experiment 1: Visualizations {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Electric Potential {{< br >}}{{< br >}}  | Chapter 3: Sections 3.1 - 3.5 ([PDF]({{< baseurl >}}/resources/ch3electri_poten)) | ([PDF]({{< baseurl >}}/resources/presentati_w02d1)) | ([PDF]({{< baseurl >}}/resources/prs_w02d1)) |
-| 5 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Gauss' Law {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Gauss' Law {{< br >}}{{< br >}}  | Chapter 4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law)) | ([PDF]({{< baseurl >}}/resources/presentati_w02d2-1)) | ([PDF]({{< baseurl >}}/resources/prs_w02d2)) |
-| 6 | Problem Solving Session 2: Electric Field of Continuous Charge Distributions | &nbsp; |
-| 3 | 7 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Conductors and Insulators {{< br >}}{{< br >}} Experiment 2: Electrostatic Force {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Capacitors {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 4: Sections 4.3 - 4.4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law)) {{< br >}}{{< br >}} Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/presentati_w03d1-1)) | ([PDF]({{< baseurl >}}/resources/prs_w03d1)) |
-| 8 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Last Time: Conductors {{< br >}}{{< br >}} Experiment 3: Faraday Ice Pail {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Capacitors and Dielectrics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 4: Sections 4.3 - 4.4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law)) {{< br >}}{{< br >}} Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/presentati_w03d2-1)) | ([PDF]({{< baseurl >}}/resources/prs_w03d2)) |
-| 9 | Problem Solving Session 3: Gauss' Law | Chapter 4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law)) | &nbsp; |
-| 4 | 10 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} DC Circuits {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Kirchhoff's Loop Rules {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 6 ([PDF]({{< baseurl >}}/resources/chapter6current)) {{< br >}}{{< br >}} Chapter 7: Sections 7.1 through 7.4 ([PDF]({{< baseurl >}}/resources/chap7dc_circuits)) {{< br >}}{{< br >}}  | ([PDF - 1.2 MB]({{< baseurl >}}/resources/presentati_w04d2)) | ([PDF]({{< baseurl >}}/resources/prs_w04d2)) |
-| 11 | Problem Solving Session 4: Capacitance | Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance)) | &nbsp; |
-| 5 | 12 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Working with Circuits {{< br >}}{{< br >}} Experiment 4: Part I: Measuring V, I, R {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} RC Circuits {{< br >}}{{< br >}} Experiment 4: Part II: RC Circuits {{< br >}}{{< br >}}  | Chapter 7 ([PDF]({{< baseurl >}}/resources/chap7dc_circuits)) | ([PDF]({{< baseurl >}}/resources/presentati_w05d1)) | ([PDF]({{< baseurl >}}/resources/prs_w05d1)) |
-| 13 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Concept Review/Overview {{< br >}}{{< br >}} PRS Questions - Possible Exam Questions {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Sample Exam {{< br >}}{{< br >}}  | &nbsp; | ([PDF]({{< baseurl >}}/resources/presentati_w05d2)) | ([PDF]({{< baseurl >}}/resources/prs_w05d2)) |
-| 6 | 14 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Magnetic Fields {{< br >}}{{< br >}} Experiment 5: Magnetic Fields {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Charges moving in B Fields {{< br >}}{{< br >}} Exam Review {{< br >}}{{< br >}}  | Chapter 8 ([PDF]({{< baseurl >}}/resources/ch8magneti_field)) | ([PDF]({{< baseurl >}}/resources/presentati_w06d1-1)) | ([PDF]({{< baseurl >}}/resources/prs_w06d1)) |
-| 15 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Magnetic Force {{< br >}}{{< br >}} Experiment 6: Magnetic Force {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Creating B Fields: Biot-Savart {{< br >}}{{< br >}}  | Chapter 9: Sections 9.1 - 9.2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field)) | ([PDF - 1.1 MB]({{< baseurl >}}/resources/presentati_w06d2)) | ([PDF]({{< baseurl >}}/resources/prs_w06d2)) |
-| 16 | Problem Solving Session 5: Magnetic Torque and Moments |  {{< br >}}{{< br >}} Chapter 8: Sections 8.3 - 8.4 ([PDF]({{< baseurl >}}/resources/ch8magneti_field)) {{< br >}}{{< br >}} Chapter 9: Sections 9.1 - 9.2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field)) {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | 17 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Dipoles and Magnetic Fields {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Experiment 7: Dipoles in B Fields {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 8: Section 8.4 ([PDF]({{< baseurl >}}/resources/ch8magneti_field)) {{< br >}}{{< br >}} Chapter 9: Sections 9.1 - 9.2, 9.5 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/presentati_w07d1-1)) | ([PDF]({{< baseurl >}}/resources/prs_w07d1)) |
-| 18 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Levitation {{< br >}}{{< br >}} Experiment 8: Magnetic Forces {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Ampere's Law {{< br >}}{{< br >}}  | Chapter 9 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field)) | ([PDF - 1.6 MB]({{< baseurl >}}/resources/presentati_w07d2)) | ([PDF]({{< baseurl >}}/resources/prs_w07d2)) |
-| 19 | Problem Solving Session 6: Ampere's Law | Chapter 9: Sections 9.3 - 9.4; 9.10.2, 9.11.6, 9.11.7 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field)) | &nbsp; |
-| 8 | 20 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Faraday's Law {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Faraday's Law: Applications {{< br >}}{{< br >}}  | Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law)) | ([PDF]({{< baseurl >}}/resources/presentati_w09d1-1)) | ([PDF]({{< baseurl >}}/resources/prs_w09d1)) |
-| 21 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Experiment 9: Faraday's Law {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Faraday's Law {{< br >}}{{< br >}} Transformers {{< br >}}{{< br >}} Magnetic Materials {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law)) {{< br >}}{{< br >}} Chapter 11: Section 11.1 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11inductance)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/presentati_w09d2)) | ([PDF]({{< baseurl >}}/resources/prs_w09d2)) |
-| 22 | Problem Solving Session 7: Faraday's Law | Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law)) | &nbsp; |
-| 9 | 23 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Concept Review/Overview {{< br >}}{{< br >}} PRS Questions - Possible Exam Questions {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Sample Exam {{< br >}}{{< br >}}  | &nbsp; | ([PDF]({{< baseurl >}}/resources/presentati_w10d1)) | ([PDF]({{< baseurl >}}/resources/prs_w10d2)) |
-| 24 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Inductance and LR Circuits {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Energy in Inductors {{< br >}}{{< br >}}  | Chapter 11: Sections 11.1 - 11.4 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11inductance)) | ([PDF]({{< baseurl >}}/resources/presentati_w10d2)) | ([PDF - 1.3 MB]({{< baseurl >}}/resources/prs_w10d1)) |
-| 10 | 25 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Experiment 10: Part I: Measuring L {{< br >}}{{< br >}} LC Circuits {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Experiment 10: Part II: LRC Circuit {{< br >}}{{< br >}}  | Chapter 11: Sections 11.5 - 11.6 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11inductance)) | ([PDF]({{< baseurl >}}/resources/presentati_w11d1)) | ([PDF]({{< baseurl >}}/resources/prs_w11d1)) |
-| 26 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Driven Harmonic Motion (RLC) {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Experiment 11: Driven RLC Circuit {{< br >}}{{< br >}}  | Chapter 12 ([PDF]({{< baseurl >}}/resources/cha12ac_circuits)) | ([PDF]({{< baseurl >}}/resources/presentati_w11d2)) | ([PDF]({{< baseurl >}}/resources/prs_w11d2)) |
-| 27 | Problem Solving Session 8: Driven RLC Circuits | Chapter 12 ([PDF]({{< baseurl >}}/resources/cha12ac_circuits)) | &nbsp; |
-| 11 | 28 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Displacement Current {{< br >}}{{< br >}} Maxwell's Equations {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Electromagnetic Waves {{< br >}}{{< br >}}  | Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves)) | ([PDF]({{< baseurl >}}/resources/presentati_w12d2-1)) | ([PDF]({{< baseurl >}}/resources/prs_w12d2)) |
-| 29 | Problem Solving Session 9: Displacement Current, Poynting | Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves)) | &nbsp; |
-| 12 | 30 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Traveling and Standing Waves {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Electromagnetic (EM) Waves {{< br >}}{{< br >}}  | Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves)) | ([PDF]({{< baseurl >}}/resources/presentati_w13d1)) | ([PDF]({{< baseurl >}}/resources/prs_w13d1)) |
-| 31 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Concept Review/Overview {{< br >}}{{< br >}} PRS Questions - Possible Exam Questions {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Sample Exam {{< br >}}{{< br >}}  | &nbsp; | ([PDF]({{< baseurl >}}/resources/presentati_w13d2)) | &nbsp; |
-| 13 | 32 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Generating Electromagnetic Waves {{< br >}}{{< br >}} Plane EM Waves {{< br >}}{{< br >}} Electric Dipole EM Waves {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Experiment 12: Microwaves {{< br >}}{{< br >}} Review Exam 3 Results {{< br >}}{{< br >}}  | Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves)) | ([PDF - 2.9 MB]({{< baseurl >}}/resources/presentati_w14d1)) | ([PDF]({{< baseurl >}}/resources/prs_w14d1)) |
-| 33 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Interference {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Experiment 13: Interference {{< br >}}{{< br >}}  | Chapter 14 ([PDF]({{< baseurl >}}/resources/ch14_inter_diffr)) | ([PDF - 1.4 MB]({{< baseurl >}}/resources/presentati_w14d2)) | ([PDF]({{< baseurl >}}/resources/prs_w14d2)) |
-| 34 | Problem Solving Session 10: Interference | &nbsp; |
-| 14 | 35 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} The Structure of Space and Time {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} The Structure of Space and Time {{< br >}}{{< br >}}  | &nbsp; |
-| 36 |  {{< br >}}{{< br >}} _Hour 1_ {{< br >}}{{< br >}} Concept Review/Overview {{< br >}}{{< br >}} PRS Questions - Possible Exam Questions {{< br >}}{{< br >}} _Hour 2_ {{< br >}}{{< br >}} Sample Exam {{< br >}}{{< br >}}  | &nbsp; | ([PDF]({{< baseurl >}}/resources/presentati_w15d2)) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+COURSE NOTES
+{{< thclose >}}
+{{< thopen >}}
+PRESENTATIONS
+{{< thclose >}}
+{{< thopen >}}
+PRS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Why Physics?
+
+Why Studio Physics? (and How?)
+
+Vector and Scalar Fields
+
+_Hour 2_
+
+Gravitational Fields
+
+Electric Fields
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 1: Sections 1.1 - 1.6; 1.8 ([PDF]({{< baseurl >}}/resources/chapter1fields))
+
+Chapter 2 ([PDF]({{< baseurl >}}/resources/chap2coulomb_law))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w01d1-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w01d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Review: Electric Fields
+
+Charge
+
+Dipoles
+
+_Hour 2_
+
+Continuous Charge Distributions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 1: Section 1.6 ([PDF]({{< baseurl >}}/resources/chapter1fields))
+
+Chapter 2 ([PDF]({{< baseurl >}}/resources/chap2coulomb_law))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w01d2-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w01d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 1: Line and Surface Integrals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Working In Groups
+
+Experiment 1: Visualizations
+
+_Hour 2_
+
+Electric Potential
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3: Sections 3.1 - 3.5 ([PDF]({{< baseurl >}}/resources/ch3electri_poten))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w02d1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w02d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Gauss' Law
+
+_Hour 2_
+
+Gauss' Law
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w02d2-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w02d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 2: Electric Field of Continuous Charge Distributions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Conductors and Insulators
+
+Experiment 2: Electrostatic Force
+
+_Hour 2_
+
+Capacitors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 4: Sections 4.3 - 4.4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law))
+
+Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w03d1-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w03d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Last Time: Conductors
+
+Experiment 3: Faraday Ice Pail
+
+_Hour 2_
+
+Capacitors and Dielectrics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 4: Sections 4.3 - 4.4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law))
+
+Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w03d2-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w03d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 3: Gauss' Law
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4 ([PDF]({{< baseurl >}}/resources/chapte4gauss_law))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+DC Circuits
+
+_Hour 2_
+
+Kirchhoff's Loop Rules
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 6 ([PDF]({{< baseurl >}}/resources/chapter6current))
+
+Chapter 7: Sections 7.1 through 7.4 ([PDF]({{< baseurl >}}/resources/chap7dc_circuits))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.2 MB]({{< baseurl >}}/resources/presentati_w04d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w04d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 4: Capacitance
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5 ([PDF - 1.3 MB]({{< baseurl >}}/resources/chap5capacitance))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Working with Circuits
+
+Experiment 4: Part I: Measuring V, I, R
+
+_Hour 2_
+
+RC Circuits
+
+Experiment 4: Part II: RC Circuits
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7 ([PDF]({{< baseurl >}}/resources/chap7dc_circuits))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w05d1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w05d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Concept Review/Overview
+
+PRS Questions - Possible Exam Questions
+
+_Hour 2_
+
+Sample Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w05d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w05d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Magnetic Fields
+
+Experiment 5: Magnetic Fields
+
+_Hour 2_
+
+Charges moving in B Fields
+
+Exam Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8 ([PDF]({{< baseurl >}}/resources/ch8magneti_field))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w06d1-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w06d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Magnetic Force
+
+Experiment 6: Magnetic Force
+
+_Hour 2_
+
+Creating B Fields: Biot-Savart
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9: Sections 9.1 - 9.2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.1 MB]({{< baseurl >}}/resources/presentati_w06d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w06d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 5: Magnetic Torque and Moments
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 8: Sections 8.3 - 8.4 ([PDF]({{< baseurl >}}/resources/ch8magneti_field))
+
+Chapter 9: Sections 9.1 - 9.2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Dipoles and Magnetic Fields
+
+_Hour 2_
+
+Experiment 7: Dipoles in B Fields
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 8: Section 8.4 ([PDF]({{< baseurl >}}/resources/ch8magneti_field))
+
+Chapter 9: Sections 9.1 - 9.2, 9.5 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w07d1-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w07d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Levitation
+
+Experiment 8: Magnetic Forces
+
+_Hour 2_
+
+Ampere's Law
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.6 MB]({{< baseurl >}}/resources/presentati_w07d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w07d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 6: Ampere's Law
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9: Sections 9.3 - 9.4; 9.10.2, 9.11.6, 9.11.7 ([PDF - 1.9 MB]({{< baseurl >}}/resources/ch9sourc_b_field))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Faraday's Law
+
+_Hour 2_
+
+Faraday's Law: Applications
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w09d1-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w09d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Experiment 9: Faraday's Law
+
+_Hour 2_
+
+Faraday's Law
+
+Transformers
+
+Magnetic Materials
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law))
+
+Chapter 11: Section 11.1 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11inductance))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w09d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w09d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 7: Faraday's Law
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 ([PDF]({{< baseurl >}}/resources/cha10faraday_law))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Concept Review/Overview
+
+PRS Questions - Possible Exam Questions
+
+_Hour 2_
+
+Sample Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w10d1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w10d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Inductance and LR Circuits
+
+_Hour 2_
+
+Energy in Inductors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11: Sections 11.1 - 11.4 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11inductance))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w10d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3 MB]({{< baseurl >}}/resources/prs_w10d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Experiment 10: Part I: Measuring L
+
+LC Circuits
+
+_Hour 2_
+
+Experiment 10: Part II: LRC Circuit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11: Sections 11.5 - 11.6 ([PDF - 1.0 MB]({{< baseurl >}}/resources/chap11inductance))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w11d1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w11d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Driven Harmonic Motion (RLC)
+
+_Hour 2_
+
+Experiment 11: Driven RLC Circuit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12 ([PDF]({{< baseurl >}}/resources/cha12ac_circuits))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w11d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w11d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 8: Driven RLC Circuits
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12 ([PDF]({{< baseurl >}}/resources/cha12ac_circuits))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Displacement Current
+
+Maxwell's Equations
+
+_Hour 2_
+
+Electromagnetic Waves
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w12d2-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w12d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 9: Displacement Current, Poynting
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Traveling and Standing Waves
+
+_Hour 2_
+
+Electromagnetic (EM) Waves
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w13d1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w13d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Concept Review/Overview
+
+PRS Questions - Possible Exam Questions
+
+_Hour 2_
+
+Sample Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w13d2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Generating Electromagnetic Waves
+
+Plane EM Waves
+
+Electric Dipole EM Waves
+
+_Hour 2_
+
+Experiment 12: Microwaves
+
+Review Exam 3 Results
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13 ([PDF]({{< baseurl >}}/resources/chapte13em_waves))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.9 MB]({{< baseurl >}}/resources/presentati_w14d1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w14d1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Interference
+
+_Hour 2_
+
+Experiment 13: Interference
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14 ([PDF]({{< baseurl >}}/resources/ch14_inter_diffr))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.4 MB]({{< baseurl >}}/resources/presentati_w14d2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prs_w14d2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Solving Session 10: Interference
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+The Structure of Space and Time
+
+_Hour 2_
+
+The Structure of Space and Time
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hour 1_
+
+Concept Review/Overview
+
+PRS Questions - Possible Exam Questions
+
+_Hour 2_
+
+Sample Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/presentati_w15d2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
