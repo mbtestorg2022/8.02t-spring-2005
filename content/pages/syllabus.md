@@ -99,20 +99,175 @@ Grades
 
 Grades are not curved in this subject. If everyone in the class does well, everyone can get an A. Once the final course grade has been computed at the end of the term, grades will be assigned adhering strictly to the break-points below. Grades (+/-) will be assigned based on your overall, weighted class average using the weighting scheme presented below.
 
-| TASKS | WEIGHTS |
-| --- | --- |
-| Tests + Final | 45% + 25% |
-| Individual Homework | 10% |
-| In-Class Problem Solving | 5% |
-| Desktop Experiments | 10% |
-| PRS | 5% |
-| &nbsp; | 100% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TASKS
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
 
-| BREAKPOINTS |
-| --- |
-| &nbsp; | + | &nbsp; | \- |
-| A | \>= 95 | < 95 and >= 90 | < 90 and >= 85 |
-| B | < 85 and >= 80 | < 80 and >= 75 | < 75 and >= 70 |
-| C | < 70 and >= 67 | < 67 and >= 64 | < 64 and >= 60 |
-| D | &nbsp; | < 60 and >= 55 | &nbsp; |
-| F | &nbsp; | < 55 |
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tests + Final
+{{< tdclose >}}
+{{< tdopen >}}
+45% + 25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-Class Problem Solving
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Desktop Experiments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PRS
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+100%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+BREAKPOINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
++
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+\>= 95
+{{< tdclose >}}
+{{< tdopen >}}
+\< 95 and >= 90
+{{< tdclose >}}
+{{< tdopen >}}
+\< 90 and >= 85
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+\< 85 and >= 80
+{{< tdclose >}}
+{{< tdopen >}}
+\< 80 and >= 75
+{{< tdclose >}}
+{{< tdopen >}}
+\< 75 and >= 70
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+\< 70 and >= 67
+{{< tdclose >}}
+{{< tdopen >}}
+\< 67 and >= 64
+{{< tdclose >}}
+{{< tdopen >}}
+\< 64 and >= 60
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\< 60 and >= 55
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\< 55
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
