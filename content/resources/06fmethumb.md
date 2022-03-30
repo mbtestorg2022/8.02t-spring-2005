@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 06FMEthumb.jpg
 uid: d7fae34a-7308-1559-9f61-8f087586c7bd

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 08FMSAOthumb.jpg
 uid: 93efef19-7958-4003-a432-a5c98c39c4ae

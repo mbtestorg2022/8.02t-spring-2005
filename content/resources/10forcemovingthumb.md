@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 10forceMovingThumb.jpg
 uid: 78d684a2-ba35-6991-0bce-f744a1648076

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 32lattice3dthumb.jpg
 uid: 4c5d36bd-ee42-8247-8eeb-9b891aa753a9

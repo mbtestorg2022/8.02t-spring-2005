@@ -6,6 +6,7 @@ description: 'This resource deals with topic introduction including lorenz force
   current-carrying wires.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/db26db678646f01711033955354b1ac1_summary_w06d2.pdf
 file_type: application/pdf
+parent_uid: a1134647-b0ff-86e4-f59c-c1f6b99164df
 resourcetype: Document
 title: summary_w06d2.pdf
 uid: db26db67-8646-f017-1103-3955354b1ac1

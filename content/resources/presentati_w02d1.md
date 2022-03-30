@@ -10,6 +10,7 @@ description: 'This resource includes the following topics:
   energy, and in class problem.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/b7a8083d46b9980583bf4336da37f1ed_presentati_w02d1.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: presentati_w02d1.pdf
 uid: b7a8083d-46b9-9805-83bf-4336da37f1ed

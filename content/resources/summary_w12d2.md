@@ -5,6 +5,7 @@ description: This file talks about how electricity and magnetism interact with e
   (EM) radiation and how energy flows in electric and magnetic fields.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/6eac25b2e8bb97bd840ba9b49f759b10_summary_w12d2.pdf
 file_type: application/pdf
+parent_uid: a1134647-b0ff-86e4-f59c-c1f6b99164df
 resourcetype: Document
 title: summary_w12d2.pdf
 uid: 6eac25b2-e8bb-97bd-840b-a9b49f759b10

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 21mole3dthumb.jpg
 uid: 3e450d58-7a23-905b-805b-85d0f1ce06c5

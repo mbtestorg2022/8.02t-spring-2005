@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 11fallingcoilthumb.jpg
 uid: eecc7fc5-dea0-4341-5a06-276442368466

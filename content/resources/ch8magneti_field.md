@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/90510e513af27a2dde30b890a61bbcd1_ch8magneti_field.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: ch8magneti_field.pdf
 uid: 90510e51-3af2-7a2d-de30-b890a61bbcd1

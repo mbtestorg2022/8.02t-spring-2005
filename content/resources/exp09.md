@@ -6,6 +6,7 @@ description: The objective of this resource is to become familiar with the conce
   an induced current is consistent with Lenz?s Law.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/ee9139e34906fc0fb997f49505f3f8c9_exp09.pdf
 file_type: application/pdf
+parent_uid: 8f8ae142-b013-b61f-6075-6a830d093354
 resourcetype: Document
 title: exp09.pdf
 uid: ee9139e3-4906-fc0f-b997-f49505f3f8c9

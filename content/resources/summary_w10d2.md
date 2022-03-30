@@ -5,6 +5,7 @@ description: This resource talks about Faraday?s Law, and move from mutual induc
   in which the changing flux from a circuit induces an EMF in itself.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/64145d9d3bb94fe6b93b0301fefb143b_summary_w10d2.pdf
 file_type: application/pdf
+parent_uid: a1134647-b0ff-86e4-f59c-c1f6b99164df
 resourcetype: Document
 title: summary_w10d2.pdf
 uid: 64145d9d-3bb9-4fe6-b93b-0301fefb143b

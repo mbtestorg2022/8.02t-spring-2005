@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/5039d9b38e0e96be41771c5455731e34_chap11inductance.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: chap11inductance.pdf
 uid: 5039d9b3-8e0e-96be-4177-1c5455731e34

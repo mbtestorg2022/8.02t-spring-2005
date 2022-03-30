@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 24oxygenThumb.jpg
 uid: 39d9318b-559b-d2a9-34eb-509617c7210f

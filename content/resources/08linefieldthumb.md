@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 08linefieldThumb.jpg
 uid: 5b68e657-f589-3803-8f34-3b5e1ef8033c

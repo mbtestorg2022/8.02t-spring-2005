@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 35wirecompassthumb.jpg
 uid: 909b79ed-7f1c-3933-9e27-6c84a4cce23c

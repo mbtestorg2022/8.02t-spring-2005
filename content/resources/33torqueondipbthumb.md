@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 33torqueondipbthumb.jpg
 uid: 5ea360fa-dc2f-1dc7-4297-3f14ddf7a12c

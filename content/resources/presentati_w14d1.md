@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   and exam 3 results.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/8e5a4d5ac288f03aa480af815f7206f5_presentati_w14d1.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: presentati_w14d1.pdf
 uid: 8e5a4d5a-c288-f03a-a480-af815f7206f5

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 14pithCreateThumb.jpg
 uid: 3f84607b-f983-597e-ed75-30a435a27a98

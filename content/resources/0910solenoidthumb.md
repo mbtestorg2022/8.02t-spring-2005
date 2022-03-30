@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 0910solenoidThumb.jpg
 uid: 0266ab22-3bc0-e44b-79e6-9c3f1bc95912

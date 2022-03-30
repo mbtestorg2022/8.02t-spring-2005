@@ -10,6 +10,7 @@ description: 'This resource includes the following topics:
   problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/13e4e0069a9ffca5ae3f909083695c2b_chapte13em_waves.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: chapte13em_waves.pdf
 uid: 13e4e006-9a9f-fca5-ae3f-909083695c2b

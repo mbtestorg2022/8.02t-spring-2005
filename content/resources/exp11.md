@@ -9,6 +9,7 @@ description: 'The objective of this file is to measure the resonance frequency a
   these objectives.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/a3658f3cc38171a986253fd389b618cb_exp11.pdf
 file_type: application/pdf
+parent_uid: 8f8ae142-b013-b61f-6075-6a830d093354
 resourcetype: Document
 title: exp11.pdf
 uid: a3658f3c-c381-71a9-8625-3fd389b618cb

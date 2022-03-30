@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 02partSourceThumb.jpg
 uid: a68a9674-4c17-d43e-2799-23edf86ddea9

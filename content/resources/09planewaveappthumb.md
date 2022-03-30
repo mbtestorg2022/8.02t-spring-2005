@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 09planewaveappthumb.jpg
 uid: 36787ac4-f2c6-6740-0105-97885b1ad625

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 23trapthumb.jpg
 uid: 60f4dc7a-04c2-1001-6afe-6a4ec02ef8b4

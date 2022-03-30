@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 03chargeFieldThumb.jpg
 uid: 0a24ed1c-f8de-db7b-ed5f-0a4a0752a50c

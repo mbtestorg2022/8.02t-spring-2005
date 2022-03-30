@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 01MovChrgPosMagThumb.jpg
 uid: da6a1101-ac2b-8cd3-bb29-3aaa6a4fcfdd

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 17scatterRepThumb.jpg
 uid: 175e27da-e1e9-f890-3f64-0f531f036570

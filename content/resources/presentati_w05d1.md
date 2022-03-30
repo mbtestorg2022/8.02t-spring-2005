@@ -6,6 +6,7 @@ description: 'This resource includes the following topics: resistors & ohm?s law
   circuits, prs question: multiloop circuit with capacitor in one loop.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/9965e4e342f728436d23e0e191a58e2a_presentati_w05d1.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: presentati_w05d1.pdf
 uid: 9965e4e3-42f7-2843-6d23-e0e191a58e2a

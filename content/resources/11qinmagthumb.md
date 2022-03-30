@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 11QinMagThumb.jpg
 uid: e122486d-416e-a389-f77f-4b9a40aaab40

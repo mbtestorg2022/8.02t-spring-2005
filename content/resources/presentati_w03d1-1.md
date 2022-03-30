@@ -10,6 +10,7 @@ description: 'This resource includes the following topics:
   capacitor.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/e57a18fe3bcded8e09661fe938ec81c5_presentati_w03d1.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: presentati_w03d1.pdf
 uid: e57a18fe-3bcd-ed8e-0966-1fe938ec81c5

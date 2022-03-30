@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 07array08Thumb.jpg
 uid: bbaf607d-2590-b5dc-ab7c-390605e27524

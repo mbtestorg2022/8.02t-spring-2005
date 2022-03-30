@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   energy flow:  resistor, and energy flow: inductor.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/4a9e147aa46466d7480f0ba268e94360_presentati_w12d2.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: presentati_w12d2.pdf
 uid: 4a9e147a-a464-66d7-480f-0ba268e94360

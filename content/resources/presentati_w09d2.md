@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   materials, magnetization vector, and hysteresis in ferromagnets.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/1abd5afecb6ab0bc8fbcd0a337592ae9_presentati_w09d2.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: presentati_w09d2.pdf
 uid: 1abd5afe-cb6a-b0bc-8fbc-d0a337592ae9

@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   solved problems, conceptual questions, and additional problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/99407b81a217613e8ddec21dc3da07de_chap5capacitance.pdf
 file_type: application/pdf
+parent_uid: 8c57fc19-927d-cd77-b384-2f8eed1c0daf
 resourcetype: Document
 title: chap5capacitance.pdf
 uid: 99407b81-a217-613e-8dde-c21dc3da07de

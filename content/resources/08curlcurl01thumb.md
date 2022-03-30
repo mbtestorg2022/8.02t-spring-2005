@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 08curlcurl01Thumb.jpg
 uid: 78c3bb26-cd43-a6df-a20e-1f5bd38d4e78

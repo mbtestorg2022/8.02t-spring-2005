@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 41force_in_efield_thumb.jpg
 uid: 7fc5d201-ff51-773b-d020-2ef0b2c5f4d9

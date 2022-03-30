@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 35capacitorthumb.jpg
 uid: d0fb620d-04ee-0716-ea10-071bf38831b8

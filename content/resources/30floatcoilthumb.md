@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 30floatcoilthumb.jpg
 uid: cd853bc5-c537-9b64-8e96-9814f71cd4d2

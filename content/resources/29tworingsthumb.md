@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 29tworingsthumb.jpg
 uid: 6e1d83e0-ce86-fea8-8861-f31d7f8d786a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 29vdgavithumb.jpg
 uid: 0419a9ac-661c-b874-4a91-ea5ea8244b97

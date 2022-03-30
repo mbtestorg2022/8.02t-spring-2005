@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 08RingMagIntThumb.jpg
 uid: 362bf01c-3d60-362b-591e-ceef9b2b02fd

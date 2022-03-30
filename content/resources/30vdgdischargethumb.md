@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 30vdgdischargethumb.jpg
 uid: 0edc10a3-a869-c8d2-063c-41c9ff1151d0

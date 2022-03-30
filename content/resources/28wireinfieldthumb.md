@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 28wireinfieldthumb.jpg
 uid: c2282e01-8a8e-32b7-082a-f6868e787e1d

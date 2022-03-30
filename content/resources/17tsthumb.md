@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 17tsthumb.jpg
 uid: dd128fd0-7885-a352-d7a0-c5b94f58f6bd

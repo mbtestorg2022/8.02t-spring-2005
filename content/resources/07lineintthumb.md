@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 07lineintThumb.jpg
 uid: b23902c9-0f77-b13c-5837-c17ba2b615f9

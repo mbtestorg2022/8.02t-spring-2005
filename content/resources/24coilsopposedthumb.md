@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e9d053a-11ee-effa-00de-c3b42819928c
 resourcetype: Image
 title: 24coilsopposedthumb.jpg
 uid: 3bfe57fc-c019-58d2-eb0c-5873b61c42dd

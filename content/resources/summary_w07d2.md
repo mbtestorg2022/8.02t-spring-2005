@@ -6,6 +6,7 @@ description: This file talks about forces on dipoles in nonuniform fields, and s
   equivalent of Gauss?s Law.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02t-electricity-and-magnetism-spring-2005/1264ee38b53a9ead58451304f5663059_summary_w07d2.pdf
 file_type: application/pdf
+parent_uid: a1134647-b0ff-86e4-f59c-c1f6b99164df
 resourcetype: Document
 title: summary_w07d2.pdf
 uid: 1264ee38-b53a-9ead-5845-1304f5663059
